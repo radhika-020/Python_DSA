@@ -8,4 +8,7 @@ def bubble_sort(arr):
 arr = [2, 4, 7, 1, 20]
 bubble_sort(arr)
 print("After sorting {}". format(arr))
+
+
+"""Time Complexity = O(n^2)"""
     
