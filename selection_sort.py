@@ -6,3 +6,5 @@ def selection_sort(arr):
       if arr[min] > arr[j]:
         min = j
      arr[i], arr[min] = arr[min], arr[i]
+     
+"""Time complexity = O(N^2)"""
